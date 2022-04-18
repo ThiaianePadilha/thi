@@ -1,10 +1,14 @@
 # olá eu sou a thi!
 
-💻cursando informática para internet
-📚terceirão 2022
-🌼18 years
-🎓Colégio técnico indútrial de Santa Maria CTISM/UFSM
-🎵 I've been looking at the sky AC/DC
+-💻cursando informática para internet
+
+-📚terceirão 2022
+
+-🌼18 years
+
+-🎓Colégio técnico indútrial de Santa Maria CTISM/UFSM
+
+-🎵 I've been looking at the sky AC/DC
 
 <div align="center">
   <a href="https://github.com/ThiaianePadilha">
